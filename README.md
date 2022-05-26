@@ -10,4 +10,4 @@ Implement k means from scratch python
 ### 3. Assign a centroid to each of the observations.
 ### 4. Calculate the sum of total errors and compare it with the sum in the previous iteration.
 ### 5. If the error decreases, recalculate centroids and repeat the process.
-### 6. Draw Elbow Grap
+### 6. Draw Elbow Graph
